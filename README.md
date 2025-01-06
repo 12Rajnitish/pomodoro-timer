@@ -88,12 +88,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## Screenshots
-
-Include a screenshot of the application here.
-
----
-
 ## Contributions
 
 Feel free to contribute to this project by submitting issues or pull requests.
