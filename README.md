@@ -38,7 +38,7 @@ To run this project, you need:
 
 3. Run the script:
    ```bash
-   python pomodoro_timer.py
+   python pomodoro.py
    ```
 
 4. Enjoy the Pomodoro Timer!
@@ -49,7 +49,7 @@ To run this project, you need:
 
 ```
 pomodoro-timer/
-├── pomodoro_timer.py   # Main script for the Pomodoro Timer
+├── pomodoro.py         # Main script for the Pomodoro Timer
 ├── tomato.png          # Image used in the UI
 └── README.md           # Project documentation
 ```
@@ -67,7 +67,7 @@ You can create a standalone executable for this application using PyInstaller:
 
 2. Create the executable:
    ```bash
-   pyinstaller --onefile --add-data "tomato.png;." pomodoro_timer.py
+   pyinstaller --onefile --add-data "tomato.png;." pomodoro.py
    ```
 
 3. The executable will be available in the `dist` folder.
